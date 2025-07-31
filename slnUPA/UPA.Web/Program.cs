@@ -6,8 +6,8 @@ using UPA.DAl;
 using Microsoft.AspNetCore.Identity;
 using UPA.DAL.Models;
 
-var builder = WebApplication.CreateBuilder(args);
 
+var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -27,6 +27,18 @@ builder.Services.AddCors();
 var app = builder.Build();
 using var host = app.Services.CreateScope();
 var services = host.ServiceProvider;
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+app.UseCors("AllowAll");
+
 var LoggerFactory = services.GetRequiredService<ILoggerFactory>();
 try
 {
@@ -83,5 +95,7 @@ app.UseFileServer(new FileServerOptions
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+app.Urls.Add("http://0.0.0.0:5000");
+
 
 app.Run();
