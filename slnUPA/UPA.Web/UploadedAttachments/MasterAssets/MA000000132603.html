@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"
+    id="bootstrap-css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="main.js"></script>
+  <link rel="stylesheet" type="text/css" href="Navbar.css">
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<style>
+  .project-tab {
+    padding: 10%;
+    margin-top: -8%;
+  }
+
+  .project-tab #tabs {
+    background: #007b5e;
+    color: #eee;
+  }
+
+  .project-tab #tabs h6.section-title {
+    color: #eee;
+  }
+
+
+  .project-tab .nav-link:hover {
+    border: none;
+  }
+</style>
+
+<body>
+  <div class="container-fluid">
+    <!------ Include the above in your HEAD tag ---------->
+    <nav class="navbar navbar-icon-top navbar-expand-lg ">
+      <button type="button" data-toggle="modal" data-target="#sidebar-left" class="btn  navbar-btn pull-right mr-2"
+        style="background-color: white; color: black;margin-left: -30px;"><img src="Images/burger-menu.svg"
+          style="width: 40px;"></button>
+      <a class="navbar-brand pt-3" href="#"><img src="https://www.mitcha.com/content/images/thumbs/0008108.jpeg"
+          style="width: 35%;"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse " id="navbarSupportedContent">
+        <ul class="navbar-nav  ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <i class="fa fa-globe" aria-hidden="true"></i>
+              </i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <i class="fa fa-user" aria-hidden="true"></i>
+              </i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <i class="fa fa-heart-o" aria-hidden="true"></i>
+              </i>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <i class="fa fa-shopping-bag" aria-hidden="true"></i>
+              </i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div>
+      <form class="form-inline my-2 my-lg-0" style="margin-left: 70%;">
+        <div class="input-group" style="width: 93%;">
+          <input type="text" class="form-control" placeholder="Search">
+          <div class="input-group-btn">
+            <button class="btn btn-default" type="submit">
+              <i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <!-- Sidebar Left -->
+    <div class="modal fade  left" id="sidebar-left" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+          <div class="modal-header" style="margin-bottom: -25px;">
+            <button type="button" class="close" style="margin-left: 100px;" data-dismiss="modal"><img
+                style="height: 20px;width: 41px;" src="Images/close.svg"></button>
+          </div>
+          <div class="modal-body">
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008096_new_600.jpeg');">
+                    <h4 class="panel-title">NEW</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"> <a href="#">All</a></div>
+                  <div class="panel-body"><a href="#">Summer Collection</a></div>
+                  <div class="panel-body"> <a href="#">In Accessories</a></div>
+                  <div class="panel-body"><a href="#">In Pags</a></div>
+                  <div class="panel-body"><a href="#">In Beauty</a> </div>
+                  <div class="panel-body"><a href="#">In Clothing</a></div>
+                  <div class="panel-body"><a href="#">In Dressess</a></div>
+                  <div class="panel-body"> <a href="#">In Fine Jewelry</a></div>
+                  <div class="panel-body"> <a href="#">In Fashion Jewelry</a></div>
+                  <div class="panel-body"><a href="#">In Footwear</a> </div>
+                  <div class="panel-body"><a href="#">In Home Accessories</a></div>
+                  <div class="panel-body"><a href="#">In Jackets</a></div>
+                  <div class="panel-body"><a href="#">In Menswear</a></div>
+                  <div class="panel-body"><a href="#">In Pants</a></div>
+                  <div class="panel-body"><a href="#">In Skirts</a></div>
+                  <div class="panel-body"><a href="#">In Stationery</a></div>
+                  <div class="panel-body"><a href="#">In Tops</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008097_sale_600.jpeg');">
+                    <h4 class="panel-title">SALE</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"><a href="#">All</a></div>
+                  <div class="panel-body"><a href="#">Beauty on Sale</a></div>
+                  <div class="panel-body"><a href="#">Bages on Sale</a></div>
+                  <div class="panel-body"><a href="#">Dressess on Sale</a></div>
+                  <div class="panel-body"><a href="#">FootWear on Sale</a></div>
+                  <div class="panel-body"><a href="#">Jackets on Sale</a></div>
+                  <div class="panel-body"><a href="#">JumpSuit on Sale</a> </div>
+                  <div class="panel-body"><a href="#">MensWear on Sale</a></div>
+                  <div class="panel-body"><a href="#">Pants on Sale</a></div>
+                  <div class="panel-body"><a href="#">Shirts on Sale </a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008098_exclusive_600.jpeg');">
+                    <h4 class="panel-title">EXCLUSIVE</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"> <a href="#">All</a></div>
+                  <div class="panel-body"><a href="/valentines-day-exclusive">Save a Heart</a></div>
+                  <div class="panel-body"> <a href="/nine-crimes-exclusive-2">Nine Crimes Exclusive</a></div>
+                  <div class="panel-body"><a href="/doodle-factory-exclusive">Doodle Factory Exclusive</a></div>
+                  <div class="panel-body"> <a href="/maison-saedi-exclusive">Maison Saedi Exclusive</a></div>
+                  <div class="panel-body"><a href="/accessories-exclusive">Accessories Exclusive</a></div>
+                  <div class="panel-body"><a href="/dresses-exclusive">Dresses Exclusive</a></div>
+                  <div class="panel-body"><a href="/footwear-exclusive">Footwear Exclusive</a></div>
+                  <div class="panel-body"><a href="/jewelry-exclusive">Jewelry Exclusive</a></div>
+                  <div class="panel-body"><a href="/jumpsuits-exclusive">Jumpsuits Exclusive</a></div>
+                  <div class="panel-body"><a href="/jackets-exclusive">Jackets Exclusive</a></div>
+                  <div class="panel-body"><a href="/pants-exclusive">Pants Exclusive</a></div>
+                  <div class="panel-body"><a href="/tops-exclusive">Tops Exclusive</a></div>
+                  <div class="panel-body"><a href="/vests-exclusive">Vests Exclusive</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008099_clothing_600.jpeg');">
+                    <h4 class="panel-title">CLOTHING</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"> <a href="#">All</a></div>
+                  <div class="panel-body"><a href="/coats">Coats</a></div>
+                  <div class="panel-body"><a href="/couture">Couture</a></div>
+                  <div class="panel-body"><a href="/dresses">Dresses</a></div>
+                  <div class="panel-body"><a href="/jackets">Jackets</a></div>
+                  <div class="panel-body"><a href="/jumpsuits">Jumpsuits</a></div>
+                  <div class="panel-body"><a href="/kaftans">Kaftans</a></div>
+                  <div class="panel-body"><a href="/vests">Vests</a></div>
+                  <div class="panel-body"><a href="/pants">Pants</a></div>
+                  <div class="panel-body"><a href="/shorts">Shorts</a></div>
+                  <div class="panel-body"><a href="/skirts">Skirts</a></div>
+                  <div class="panel-body"><a href="/swimwear">Swimwear</a></div>
+                  <div class="panel-body"><a href="/sleepwear">Sleepwear</a></div>
+                  <div class="panel-body"><a href="/sportswear">Sportswear</a></div>
+                  <div class="panel-body"><a href="/tops">Tops</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008100_footwear_600.jpeg');">
+                    <h4 class="panel-title">FOOTWEAR</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"><a href="#">All</a></div>
+                  <div class="panel-body"><a href="/boots">Boots</a></div>
+                  <div class="panel-body"><a href="/classic-shoes">Classic Shoes</a></div>
+                  <div class="panel-body"><a href="/flats">Flats</a></div>
+                  <div class="panel-body"><a href="/mules">Mules</a></div>
+                  <div class="panel-body"><a href="/sandals">Sandals</a></div>
+                  <div class="panel-body"><a href="/slippers">Slippers</a></div>
+                  <div class="panel-body"><a href="/socks">Socks</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008102_bags_600.jpeg');">
+                    <h4 class="panel-title">BAGES</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"><a href="#">All</a></div>
+                  <div class="panel-body"><a href="/backpacks">Backpacks</a></div>
+                  <div class="panel-body"><a href="/belt-bags">Belt Bags</a></div>
+                  <div class="panel-body"><a href="/bucket-bags">Bucket Bags</a></div>
+                  <div class="panel-body"><a href="/clutches-1">Clutches</a></div>
+                  <div class="panel-body"><a href="/cross-body-bags">Cross Body Bags</a></div>
+                  <div class="panel-body"><a href="/laptop-bags">Laptop Bags</a></div>
+                  <div class="panel-body"><a href="/mini-bags">Mini Bags</a></div>
+                  <div class="panel-body"><a href="/makeup-cases">Makeup Cases</a></div>
+                  <div class="panel-body"><a href="/shoulder-bags">Shoulder Bags</a></div>
+                  <div class="panel-body"><a href="/tote-bags">Tote Bags</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008103_accessories_600.jpeg');">
+                    <h4 class="panel-title">ACCESSORIES</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"><a href="#">All</a></div>
+                  <div class="panel-body"><a href="/hair-accessories">Hair Accessories</a></div>
+                  <div class="panel-body"><a href="/hats">Hats</a></div>
+                  <div class="panel-body"><a href="/home-accessories">Home Accessories</a></div>
+                  <div class="panel-body"><a href="/phone-accessories">Phone Accessories</a></div>
+                  <div class="panel-body"><a href="/sunglasses">Sunglasses</a></div>
+                  <div class="panel-body"><a href="/scarves">Scarves</a></div>
+                  <div class="panel-body"><a href="/stationary">Stationery</a></div>
+                  <div class="panel-body"><a href="/sports-accessories">Sports Accessories</a></div>
+                  <div class="panel-body"><a href="/watches">Watches</a></div>
+                  <div class="panel-body"><a href="/wallets-card-holders">Wallets &amp; Card Holders</a></div>
+                  <div class="panel-body"><a href="/bridal-accessories">Bridal Accessories</a></div>
+                </div>
+              </div>
+            </div>
+            <div class="row" style="width: 110%;">
+              <div class="col-md-12">
+                <div class="panel panel-primary">
+                  <div class="panel-heading"
+                    style="background-image: url('https://www.mitcha.com/content/images/thumbs/0008104_jewelry_600.jpeg');">
+                    <h4 class="panel-title">JEWELRY</h4>
+                    <span class="pull-right clickable"><i class="fa fa-chevron-right"
+                        style="color: white; padding-right: 30px;" aria-hidden="true"></i>
+                    </span>
+                  </div>
+                  <div class="panel-body"><a href="#">All</a></div>
+                  <div class="panel-body"><a href="/fine-jewelry">All Fine Jewelry</a></div>
+                  <div class="panel-body"><a href="/fashion-jewelry">All Fashion Jewelry</a></div>
+                  <div class="panel-body"><a href="/fine-bracelets">Fine Bracelets</a></div>
+                  <div class="panel-body"><a href="/fine-chokers">Fine Chokers</a></div>
+                  <div class="panel-body"><a href="/fine-cuffs">Fine Cuffs</a></div>
+                  <div class="panel-body"><a href="/fine-earrings">Fine Earrings</a></div>
+                  <div class="panel-body"><a href="/fine-necklaces">Fine Necklaces</a></div>
+                  <div class="panel-body"><a href="/fine-rings">Fine Rings</a></div>
+                  <div class="panel-body"><a href="/fashion-bracelets">Fashion Bracelets</a></div>
+                  <div class="panel-body"><a href="/fashion-chokers">Fashion Chokers</a></div>
+                  <div class="panel-body"><a href="/fashion-cuffs">Fashion Cuffs</a></div>
+                  <div class="panel-body"> <a href="/fashion-earrings">Fashion Earrings</a></div>
+                  <div class="panel-body"><a href="/fashion-necklaces">Fashion Necklaces</a> </div>
+                  <div class="panel-body"><a href="/fashion-pendants">Fashion Pendants</a> </div>
+                  <div class="panel-body"><a href="/fashion-rings">Fashion Rings</a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="social-links" style="padding-left: 200px; padding-top: 20px;">
+              <a target="_blank" href="https://www.facebook.com/officialmitcha/">
+                <img src="Images/facebook.svg" style="width: 15px; margin-left: 30px;" />
+              </a>
+              <a target="_blank" class="youtube-icon" href="https://www.youtube.com/channel/UCVvbby2N-kr9rOVw4XFsXBw">
+                <img src="Images/youtube.svg" style="width: 20px; margin-left: 30px;" />
+              </a>
+              <a target="_blank" href="https://www.instagram.com/mitchaofficial/">
+                <img src="Images/instagram.svg" style="width: 20px; margin-left: 30px;" />
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row mt-3" style="background-color: black;height: 60px;">
+      <div class="col-7">
+        <p
+          style="color:white; ;font-family: NotoSerif;font-style: italic;font-size: 23px;padding-top: 10px; padding-left: 20%;">
+          Free shipping on orders over 800EGP</p>
+      </div>
+      <div id="clockdiv" class="col-5 pt-1">
+        <div>
+          <span class="days"></span>
+          <div class="smalltext">Days</div>
+        </div>
+        <div>
+          <span class="hours"></span>
+          <div class="smalltext">Hrs</div>
+        </div>
+        <div>
+          <span class="minutes"></span>
+          <div class="smalltext">Mins</div>
+        </div>
+        <div>
+          <span class="seconds"></span>
+          <div class="smalltext">Secd</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <!--Carousel Wrapper-->
+      <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+        <!--Indicators-->
+        <ol class="carousel-indicators">
+          <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel-example-2" data-slide-to="1"></li>
+          <li data-target="#carousel-example-2" data-slide-to="2"></li>
+          <li data-target="#carousel-example-2" data-slide-to="3"></li>
+        </ol>
+        <!--/.Indicators-->
+        <!--Slides-->
+        <div class="carousel-inner" role="listbox" style="padding-bottom: 20px;">
+          <div class="carousel-item active">
+            <div class="view">
+              <img class="d-block w-100" src="https://www.mitcha.com/content/images/thumbs/0012637.png"
+                alt="First slide">
+              <div class="mask rgba-black-light"></div>
+            </div>
+            <div class="carousel-caption">
+              <!--<h3 class="h3-responsive">Light mask</h3>
+        <p>First text</p>-->
+            </div>
+          </div>
+          <div class="carousel-item">
+            <!--Mask color-->
+            <div class="view">
+              <img class="d-block w-100" src="https://www.mitcha.com/content/images/thumbs/0012638.png"
+                alt="Second slide">
+              <div class="mask rgba-black-strong"></div>
+            </div>
+            <div class="carousel-caption">
+              <!--<h3 class="h3-responsive">Strong mask</h3>
+        <p>Secondary text</p>-->
+            </div>
+          </div>
+          <div class="carousel-item">
+            <!--Mask color-->
+            <div class="view">
+              <img class="d-block w-100" src="https://www.mitcha.com/content/images/thumbs/0011312.jpeg"
+                alt="Third slide">
+              <div class="mask rgba-black-slight"></div>
+            </div>
+            <div class="carousel-caption">
+              <!--<h3 class="h3-responsive">Slight mask</h3>
+        <p>Third text</p>-->
+            </div>
+          </div>
+          <div class="carousel-item">
+            <!--Mask color-->
+            <div class="view">
+              <img class="d-block w-100" src="https://www.mitcha.com/content/images/thumbs/0011794.jpeg"
+                alt="Third slide">
+              <div class="mask rgba-black-slight"></div>
+            </div>
+            <div class="carousel-caption">
+              <!--<h3 class="h3-responsive">Slight mask</h3>
+        <p>Third text</p>-->
+            </div>
+          </div>
+        </div>
+        <!--/.Slides-->
+        <!--Controls-->
+        <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+        <!--/.Controls-->
+      </div>
+      <!--/.Carousel Wrapper-->
+    </div>
+
+    <div class="row">
+      <div class="col-3"></div>
+      <div class="col-6">
+        <div id="tabs" class="project-tab">
+          <div class="col-md-12 ">
+            <nav>
+              <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab"
+                  aria-controls="nav-home" aria-selected="true">NEW ARRIVALS</a>
+                  <span><i class="fa fa-square" aria-hidden="true" style="padding-top: 15px; padding-left: -2px; font-size: 12px;"></i></span>
+                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab"
+                  aria-controls="nav-profile" aria-selected="false" onclick="openCity('Bages')">SALE</a>
+                  <span><i class="fa fa-square" aria-hidden="true" style="padding-top: 15px; padding-left: 5px; font-size: 12px;"></i></span>
+
+                <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab"
+                  aria-controls="nav-contact" aria-selected="false" onclick="openCity('MixAndMarch')">FEATURED</a>
+              </div>
+            </nav>
+            <div class="row">
+              <div class="col-12 pt-4">
+                <div class="tab-content" id="nav-tabContent">
+                  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    <span><button type="button" onclick="openCity('Jewelry')" style="background-color: white;width:45%;height: 50px;">Jewelry</button>
+                    </span>
+                    <span><button type="button" onclick="openCity('Clothing')" style="background-color: white;width: 45%;height: 50px;margin-left: 10px;">Clothing</button>
+                    </span>
+                  </div>
+                  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    <span><button type="button" onclick="openCity('Bages')" style="background-color: white;width:45%;height: 50px;">Bages</button>
+                    </span>
+                    <span><button type="button" onclick="openCity('Clothingtab2')" style="background-color: white;width:45%;height: 50px;">Clothing</button>
+                    </span>
+                  </div>
+                  <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    <span><button type="button" onclick="openCity('MixAndMarch')" style="background-color: white;width:45%;height: 50px;">Mix and
+                        Match</button>
+                    </span>
+                    <span><button type="button" onclick="openCity('Tiyi')" style="background-color: white;width:45%;height: 50px;">Tiyi</button>
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-3"></div>
+    </div>
+   
+
+
+  <div class="w3-container">
+<!--Tab 1-->
+      <div id="Jewelry" class="row w3-container city">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem; border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012647_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <h5><a href="/afh-designs">FARIDA ABUSHADY</a></h5>
+              <h6><a href="/snake-earrings">Snake Earrings</a></h6>
+              <span class="newPrice">695 EGP</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012648_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012649_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012650_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="Clothing" class="row w3-container city" style="display:none">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012651_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012652_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012653_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012654_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+<!--Tab 2-->
+      <div id="Bages" class="row w3-container city" style="display:none">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012655_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012656_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012657_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012658_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="Clothingtab2" class="row w3-container city" style="display:none">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012659_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012660_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012661_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012662_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<!--Tab 3-->
+      <div id="MixAndMarch" class="row w3-container city" style="display:none">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012629_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012087_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012088_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012089_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="Tiyi" class="row w3-container city" style="display:none">
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012225_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012226_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012227_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="card" style="width: 18rem;border: none;">
+            <img class="card-img-top" src="https://www.mitcha.com/content/images/thumbs/0012228_662.jpeg"
+              alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+                content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>   
+
+
+
+
+
+
+
+    <div class="row">
+      <!-- Footer -->
+      <footer class="page-footer font-small mdb-color pt-4">
+
+        <!-- Footer Links -->
+        <div class="container text-center text-md-left">
+
+          <!-- Footer links -->
+          <div class="row text-center text-md-left mt-3 pb-3">
+
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+              <h6 class="text-uppercase mb-4 font-weight-bold">Company name</h6>
+              <p>Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
+                consectetur
+                adipisicing elit.</p>
+            </div>
+            <!-- Grid column -->
+
+            <hr class="w-100 clearfix d-md-none">
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+              <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
+              <p>
+                <a href="#!">MDBootstrap</a>
+              </p>
+              <p>
+                <a href="#!">MDWordPress</a>
+              </p>
+              <p>
+                <a href="#!">BrandFlow</a>
+              </p>
+              <p>
+                <a href="#!">Bootstrap Angular</a>
+              </p>
+            </div>
+            <!-- Grid column -->
+
+            <hr class="w-100 clearfix d-md-none">
+
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+              <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
+              <p>
+                <a href="#!">Your Account</a>
+              </p>
+              <p>
+                <a href="#!">Become an Affiliate</a>
+              </p>
+              <p>
+                <a href="#!">Shipping Rates</a>
+              </p>
+              <p>
+                <a href="#!">Help</a>
+              </p>
+            </div>
+
+            <!-- Grid column -->
+            <hr class="w-100 clearfix d-md-none">
+
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+              <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
+              <p>
+                <i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
+              <p>
+                <i class="fas fa-envelope mr-3"></i> info@gmail.com</p>
+              <p>
+                <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
+              <p>
+                <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+            </div>
+            <!-- Grid column -->
+
+          </div>
+          <!-- Footer links -->
+
+          <hr>
+
+          <!-- Grid row -->
+          <div class="row d-flex align-items-center">
+
+            <!-- Grid column -->
+            <div class="col-md-7 col-lg-8">
+
+              <!--Copyright-->
+              <p class="text-center text-md-left">© 2020 Copyright:
+                <a href="https://mdbootstrap.com/">
+                  <strong> MDBootstrap.com</strong>
+                </a>
+              </p>
+
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-5 col-lg-4 ml-lg-0">
+
+              <!-- Social buttons -->
+              <div class="text-center text-md-right">
+                <ul class="list-unstyled list-inline">
+                  <li class="list-inline-item">
+                    <a class="btn-floating btn-sm rgba-white-slight mx-1">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="btn-floating btn-sm rgba-white-slight mx-1">
+                      <i class="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="btn-floating btn-sm rgba-white-slight mx-1">
+                      <i class="fab fa-google-plus-g"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="btn-floating btn-sm rgba-white-slight mx-1">
+                      <i class="fab fa-linkedin-in"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+            <!-- Grid column -->
+
+          </div>
+          <!-- Grid row -->
+
+        </div>
+        <!-- Footer Links -->
+
+      </footer>
+      <!-- Footer -->
+
+    </div>
+  </div>
+</body>
+<script>
+  //////////////////////////////////////////////////////////counter
+  function getTimeRemaining(endtime) {
+    const total = Date.parse(endtime) - Date.parse(new Date());
+    const seconds = Math.floor((total / 1000) % 60);
+    const minutes = Math.floor((total / 1000 / 60) % 60);
+    const hours = Math.floor((total / (1000 * 60 * 60)) % 24);
+    const days = Math.floor(total / (1000 * 60 * 60 * 24));
+
+    return {
+      total,
+      days,
+      hours,
+      minutes,
+      seconds
+    };
+  }
+
+  function initializeClock(id, endtime) {
+    const clock = document.getElementById(id);
+    const daysSpan = clock.querySelector('.days');
+    const hoursSpan = clock.querySelector('.hours');
+    const minutesSpan = clock.querySelector('.minutes');
+    const secondsSpan = clock.querySelector('.seconds');
+
+    function updateClock() {
+      const t = getTimeRemaining(endtime);
+
+      daysSpan.innerHTML = t.days;
+      hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+      minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+      secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+      if (t.total <= 0) {
+        clearInterval(timeinterval);
+      }
+    }
+    updateClock();
+    const timeinterval = setInterval(updateClock, 1000);
+  }
+  const deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
+  initializeClock('clockdiv', deadline);
+/////////////////////////////////////////////counter
+
+</script>
+
+</html>

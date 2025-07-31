@@ -1,0 +1,654 @@
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+F:\UPA\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+F:\UPA\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+D:\2023-08-08\UPA\UPA_08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+E:\Projects\UPA\08-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+D:\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+D:\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+C:\Eslam Projects\22-08-2023\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+C:\Eslam Projects\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+E:\Eslam Sources\GIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\appsettings.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+E:\Eslam Sources\EslamGIS Project\GIS Project\slnUPA\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll

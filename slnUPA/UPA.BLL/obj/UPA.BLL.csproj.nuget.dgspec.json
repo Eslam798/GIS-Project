@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.BLL\\UPA.BLL.csproj": {}
+  },
+  "projects": {
+    "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.BLL\\UPA.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.BLL\\UPA.BLL.csproj",
+        "projectName": "UPA.BLL",
+        "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.BLL\\UPA.BLL.csproj",
+        "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
+        "outputPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {
+                "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj"
+              },
+              "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj": {
+                "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj",
+        "projectName": "UPA.DAL",
+        "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj",
+        "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
+        "outputPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj",
+        "projectName": "UPA.ViewModels",
+        "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
+        "outputPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {
+                "projectPath": "E:\\Eslam Sources\\EslamGIS Project\\GIS Project\\slnUPA\\UPA.DAL\\UPA.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

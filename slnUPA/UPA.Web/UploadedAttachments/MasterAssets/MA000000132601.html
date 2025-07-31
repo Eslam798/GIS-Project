@@ -1,0 +1,116 @@
+<mat-toolbar>
+  <button mat-icon-button (click)="sidenav.toggle()">
+    <mat-icon > menu </mat-icon>
+  </button>
+  <span style="margin: 0px 10px ; color: navy; font-size: 15pt; font-weight: bold;" class="example-spacer" >{{'General.Slogan'|translate}} </span> 
+
+   <div [ngStyle]="{'float': selectedLang === 'En' ? 'right': 'left'}">
+      <app-navbar></app-navbar>
+  </div> 
+    
+ 
+</mat-toolbar>
+<mat-sidenav-container autosize>
+  <mat-sidenav #sidenav="matSidenav" class="mat-elevation-z8"
+    (mouseenter)="mouseenter()" mode="side"
+    (mouseleave)="mouseleave()" [ngStyle]="{'text-align': selectedLang=== 'En' ? 'left': 'right'}">
+
+    <a class="navbar-brand" routerLink="/home/equipmentsList" style="margin:0px 90px">
+      <img class="logo img-fluid" src="./../assets/images/biologo.png">
+    </a>
+    <a  routerLink="/home/dashboard" class="list-group-item list-group-item-action active" id="pills-home-tab" aria-selected="true">
+      {{'Sidebar.Dashboard' |translate}}</a>
+      <a routerLink="/home/MasterEquipmentList"
+        class="list-group-item list-group-item-action  ">{{'Sidebar.MasterEquipment' | translate}}</a>
+  
+      <a routerLink="/home/equipmentsList" class="list-group-item list-group-item-action  ">
+        {{'Sidebar.equipments'| translate}}</a>
+        <!-- routerLink="/home/getRequests"  -->
+         <a routerLink="/home/healthUnitsList"
+        class="list-group-item list-group-item-action">{{"Sidebar.healthUnitsList"| translate}}</a>
+  <a routerLink="/home/OrganizationList"
+        class="list-group-item list-group-item-action">{{"Sidebar.Organization"| translate}}</a>
+        <a routerLink="/home/SubOrganizationList"
+        class="list-group-item list-group-item-action">{{"Sidebar.SubOrganization"| translate}}</a>
+        
+        <!-- <a routerLink="/home/qrCoder"
+        class="list-group-item list-group-item-action">qrCoder</a> -->
+        <a *ngIf="currentUser.roleName==='Organization' || currentUser.roleName==='Admin'"  routerLink="/home/AddContractRequest"
+        class="list-group-item list-group-item-action">{{'Sidebar.ContractRequest' |translate}}</a>
+
+        <a *ngIf="currentUser.roleName==='Hospital'"  routerLink="/home/ContractRequest"
+        class="list-group-item list-group-item-action">{{'Sidebar.ContractRequest' |translate}}</a>
+        <!-- <a *ngIf="currentUser.roleName!='Organization' ||currentUser.roleName!='Admin' ||
+        currentUser.roleName!='Hospital'" routerLink="/home/ContractRequest"
+        class="list-group-item list-group-item-action">{{'Sidebar.ContractRequest' |translate}}</a> -->
+        <a routerLink="/home/equipmentRecall" class="list-group-item list-group-item-action  ">{{"Sidebar.equipmentRecall"|
+          translate}}</a>
+          <a routerLink="/home/map" class="list-group-item list-group-item-action  ">Map</a>   
+        <a routerLink="#" 
+        
+        class="list-group-item list-group-item-action isDisabled">{{'Sidebar.ServiceRequests' | translate}}</a>
+      
+        <!-- <a routerLink="/home/workOrders" 
+        class="list-group-item list-group-item-action isDisabled">{{'Sidebar.ServiceRequests' | translate}}</a>
+       -->
+    <a data-toggle="collapse" class="list-group-item list-group-item-action   dropdown-toggle sidetoggle"  href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample">{{'Sidebar.Settings' |translate}}</a>
+  
+      <div id="collapse1" class="panel-collapse collapse" style="width: 100%;">
+  
+        
+      <!-- <a class="list-group-item list-group-item-action  " routerLink="/home/emps">{{"Sidebar.Employees" |
+        translate}}</a> -->
+      <a routerLink="/home/users" class="list-group-item list-group-item-action  ">{{"Sidebar.Users" |
+        translate}}</a>
+      
+      <a routerLink="/home/equipmentCategories"
+        class="list-group-item list-group-item-action  ">{{'Sidebar.EquipmentCategories' |translate}}</a>
+      <a routerLink="/home/equipmentSubCategories"
+        class="list-group-item list-group-item-action  ">{{'Sidebar.EquipmentSubCategories'| translate}}</a>
+      <a routerLink="/home/origins" class="list-group-item list-group-item-action  ">{{'Sidebar.Origins'|
+        translate}}</a>
+      <a routerLink="/home/Manfacturers" class="list-group-item list-group-item-action  ">{{'Sidebar.Manufacturer'|
+        translate}}</a>
+      <a routerLink="/home/priorities" class="list-group-item list-group-item-action  ">{{'Sidebar.Priorities'|
+        translate}}</a>
+      <a routerLink="/home/Statuses" class="list-group-item list-group-item-action  ">{{"Sidebar.Status" |
+        translate}}</a>
+      <a routerLink="/home/Suppliers" class="list-group-item list-group-item-action  ">{{'Sidebar.Suppliers'|
+        translate}}</a>
+      <a routerLink="/home/Departments" class="list-group-item list-group-item-action  ">{{"Sidebar.Departments"|
+        translate}}</a>
+      <!-- <a routerLink="/home/Modes" class="list-group-item list-group-item-action  ">{{"Sidebar.Modes"|
+        translate}}</a> -->
+      <!-- <a routerLink="/home/sla"class="list-group-item list-group-item-action  ">{{"Sidebar.Service Level Agreement"| translate}}</a> -->
+      <a routerLink="/home/ecrisList" class="list-group-item list-group-item-action  ">{{"Sidebar.ecrisList"|
+        translate}}</a>
+        <!-- <a routerLink="/home/pdfCreate" class="list-group-item list-group-item-action  ">{{"Sidebar.pdf"|
+          translate}}</a> -->
+          
+     
+          <a routerLink="/home/Inventories" class="list-group-item list-group-item-action  ">{{"Sidebar.Inventories"|
+            translate}}</a>
+          
+      <!-- <a routerLink="/home/settings" class="list-group-item list-group-item-action  ">{{"Sidebar.Calender"|
+        translate}}</a> -->
+  
+      <!-- <a routerLink="/home/contractsList"
+        class="list-group-item list-group-item-action  ">{{"Sidebar.contractsList"| translate}}</a> -->
+      
+        <!-- <a routerLink="/home/AddOganization"
+        class="list-group-item list-group-item-action  ">{{"Sidebar.healthUnitsList"| translate}}</a> -->
+
+      </div>
+  
+
+  </mat-sidenav>
+
+
+
+
+   <mat-sidenav-content>
+    <div class="mat-elevation-z8 container-fluid contentTopMargin">
+    <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content> 
+</mat-sidenav-container>
