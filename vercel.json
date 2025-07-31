@@ -1,8 +1,18 @@
 {
-    "projects": {
-      "default": {
-        "rootDirectory": "AngularClient"
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "builds": [
+    {
+      "src": "AngularClient/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "AngularClient/dist/GIS-Project"
       }
     }
-  }
-  
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
